@@ -60,7 +60,7 @@ const Home = () => {
             />
           </a>
           <a
-            href="https://drive.google.com/file/d/1ynNdRg6nuNri0gd2dE2Xmo0V8phY52pm/view?usp=sharing"
+            href="https://drive.google.com/file/d/1Sj6slimLawJNNfNbGPspXn1NLpYqmzLk/view?usp=drive_link"
             target="_blank"
              className="bg-white rounded-full shadow hover:scale-110 transition border"
           >
