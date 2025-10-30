@@ -13,10 +13,10 @@ const Home = () => {
           <TextChange/>
         </h1>
         <p className="text-xl md:text-2xl  text-white font-medium mb-6">
-          A Full-Stack Python Developer 
+          A Python Developer 
         </p>
         <p className="text-white text-lg leading-relaxed">
-          Experienced in Python, FastAPI and React.JS — delivering scalable solutions, optimizing performance, and mentoring teams to success.
+          Experienced in Python, FastAPI, Flask, Django and React.JS — delivering scalable solutions, optimizing performance, and mentoring teams to success.
          {/* Passionate Full-Stack Developer skilled in building modern python web applications using React.js and Python . I love turning ideas into real-world solutions and continuously expanding my skill set in web development. */}
         </p>
         {/* <div class="py-5 px-3 flex flex-wrap gap-6 justify-center items-center aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
@@ -60,7 +60,7 @@ const Home = () => {
             />
           </a>
           <a
-            href="https://drive.google.com/file/d/1Sj6slimLawJNNfNbGPspXn1NLpYqmzLk/view?usp=drive_link"
+            href="https://drive.google.com/file/d/18in_Pa5RPM86SnzbvH7y3YXX9m_14-5V/view?usp=sharing"
             target="_blank"
              className="bg-white rounded-full shadow hover:scale-110 transition border"
           >
@@ -76,6 +76,7 @@ const Home = () => {
          <span class="rounded-full bg-light/10 px-4 py-2 border">Python</span>
          <span class="rounded-full bg-light/10 px-4 py-2 border">FastAPI</span>
          <span class="rounded-full bg-light/10 px-4 py-2 border">Flask</span>
+         <span class="rounded-full bg-light/10 px-4 py-2 border">Django</span>
          <span class="rounded-full bg-light/10 px-4 py-2 border">React js</span>
          <span class="rounded-full bg-light/10 px-4 py-2 border">MYSQL</span>
          <span class="rounded-full bg-light/10 px-4 py-2 border">MongoDB</span>
