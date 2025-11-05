@@ -1,8 +1,17 @@
 
 const projects = [
   {
-    name: "Software Developer | TexUb | Greet Labs Pvt Ltd",
-    data:"Bengaluru | Aug 2024 - Present",
+    name: "Python & AI Developer | AI Agents | Greet Labs Pvt Ltd",
+    data:"Bengaluru | Feb 2025 - Sep 2025",
+    description: [
+      "Developed and maintained REST APIs for user authentication, profile management, and access control.",
+      "Designed and implemented the user module, including registration, login, permissions and session handling.",
+      "Contributed to development of Business Analysis and Invoice Processing Agent used for requirement analysis and task breakdown.",
+    ],
+  },
+  {
+    name: "Python Developer | TexUb | Greet Labs Pvt Ltd",
+    data:"Bengaluru | Aug 2024 - Feb 2025",
     description: [
       "Developed RESTful APIs for the User Module ensuring scalability and reusability.",
       "Built reusable, data-driven frontend components integrated with backend APIs.",
@@ -11,8 +20,8 @@ const projects = [
     ],
   },
   {
-    name: "Software Developer | Setup Filings | Greet Labs Pvt Ltd",
-    data:"Bengaluru",
+    name: "Python Developer Intern | Setup Filings | Greet Labs Pvt Ltd",
+    data:"Bengaluru | Feb 2024 - Apr 2024",
     description: [
       "Assisted in backend service development with Spring Boot for real-time processing.",
       "Optimized SQL queries, reducing API response time by 25%.",
