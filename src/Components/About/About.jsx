@@ -22,7 +22,7 @@ const About = () => {
         {/* About Text */}
         <div className="w-full  text-center md:text-left">
           <p className="text-white text-lg leading-relaxed">
-            I am a <span className="font-semibold text-[#465697]">Python & AI Developer</span> with
+            I am a <span className="font-semibold text-[#465697]">Python Developer</span> with
             <span className="font-semibold">1.5+ years</span> of experience building backend systems, REST APIs,
             and intelligent automation solutions. I work with
             <span className="font-semibold">FastAPI, Django, Flask</span> and modern AI frameworks like
