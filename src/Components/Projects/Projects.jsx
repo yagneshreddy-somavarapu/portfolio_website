@@ -1,8 +1,17 @@
 
 const projects = [
   {
-    name: "Python & AI Developer | AI Agents | Greet Labs Pvt Ltd",
-    data:"Bengaluru | Feb 2025 - Sep 2025",
+    name: "Python  |Aarthi E-Commerce Platform | Greet Labs Pvt Ltd",
+    data:"Bengaluru | Nov 2025 - Jan 2026",
+    description: [
+      "Developed a full-stack e-commerce web application using React.js, Fast API, and MongoDB.Developed and maintained REST APIs for user authentication, profile management, and access control.",
+      "Designed and implemented the user module, including registration, login, permissions and session handling.",
+      "Developed admin dashboard features for product management, pricing updates, and inventory control.",
+    ],
+  },
+  {
+    name: "Python & AI Developer |Infolob AI Agents | Greet Labs Pvt Ltd",
+    data:"Bengaluru | Apr 2025 - Nov 2025",
     description: [
       "Developed and maintained REST APIs for user authentication, profile management, and access control.",
       "Designed and implemented the user module, including registration, login, permissions and session handling.",
@@ -11,7 +20,7 @@ const projects = [
   },
   {
     name: "Python Developer | TexUb | Greet Labs Pvt Ltd",
-    data:"Bengaluru | Aug 2024 - Feb 2025",
+    data:"Bengaluru | Aug 2024 - Apr 2025",
     description: [
       "Developed RESTful APIs for the User Module ensuring scalability and reusability.",
       "Built reusable, data-driven frontend components integrated with backend APIs.",
